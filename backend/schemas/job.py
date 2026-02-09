@@ -20,4 +20,5 @@ class StoryJobRequest(BaseModel):
 
 
 class StoryJobCreate(StoryJobBase):
+    pass
     
